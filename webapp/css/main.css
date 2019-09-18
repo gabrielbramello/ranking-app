@@ -1,0 +1,21 @@
+﻿html{
+    background-color: azure;
+}
+section{
+    width: 90%;
+    margin: auto;
+    padding: 30px;
+}
+table{  
+    margin: auto;
+}
+
+form{
+    margin: auto;
+}
+
+#cabecalho-form{
+    padding: 30px 0px 15px 0px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 20px;
+}
